@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mesadebilhar a.k.a Jô or João. I born in 2005 and i'm trying to learn more about programmming.
 - 👀 I’m interested in learning programming, developing, games and books.
 - 🌱 I’m currently learning C++ 
-- 📫 How to reach me: carnebovina@proton.me
+- 📫 How to reach me: carnebovina@proton.me / joao9edroo@gmail.com / jo9edroo@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: wow
 <!-- 💞️ I’m looking to collaborate on ...-->
